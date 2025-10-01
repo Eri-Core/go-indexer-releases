@@ -2,16 +2,16 @@
 
 This repository contains pre-compiled binaries for the Ericore Indexer.
 
-## Latest Release: v1.0.3
+## Latest Release: v1.0.4
 
 ### Quick Download
 
 ```bash
 # Linux AMD64
-wget https://github.com/Eri-Core/go-indexer-releases/raw/main/releases/v1.0.3/ericore-indexer-v1.0.3-linux-amd64.tar.gz
+wget https://github.com/Eri-Core/go-indexer-releases/raw/main/releases/v1.0.4/ericore-indexer-v1.0.4-linux-amd64.tar.gz
 
 # Linux ARM64
-wget https://github.com/Eri-Core/go-indexer-releases/raw/main/releases/v1.0.3/ericore-indexer-v1.0.3-linux-arm64.tar.gz
+wget https://github.com/Eri-Core/go-indexer-releases/raw/main/releases/v1.0.4/ericore-indexer-v1.0.4-linux-arm64.tar.gz
 ```
 
 ### Available Versions
@@ -32,4 +32,3 @@ Source code is maintained at: [Eri-Core/go-indexer](https://github.com/Eri-Core/
 ### Support
 
 For issues and support, please visit the main repository: [Eri-Core/go-indexer](https://github.com/Eri-Core/go-indexer/issues)
-a
